@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Sandie&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=offline-first%20tooling%20for%20LLM-heavy%20codebases&descAlignY=60&descSize=16" alt="Sandie" />
 
-<a href="https://github.com/Sandie">
+<a href="https://github.com/SandieOnChain">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Read-only+by+default.;Evidence+before+recommendations.;Reproducible+builds%2C+byte-for-byte.;Fallback-preserving+patches%2C+never+auto-applied." alt="typing" />
 </a>
 
@@ -35,7 +35,7 @@ principle  don't touch the target repo, don't store what you don't need,
 <tr>
 <td width="70%">
 
-**[JevCostCutter](https://github.com/Sandie/jevcostcutter)** — *stop paying an LLM to do an if/else.*<br/>A Java 21 CLI that finds bounded LLM decisions in a codebase, replays them in shadow mode against a cheaper decision engine, measures agreement and economics, and only then proposes a **review-only patch that keeps the original LLM call as fallback**.
+**[JevCostCutter](https://github.com/SandieOnChain/jevcostcutter)** — *stop paying an LLM to do an if/else.*<br/>A Java 21 CLI that finds bounded LLM decisions in a codebase, replays them in shadow mode against a cheaper decision engine, measures agreement and economics, and only then proposes a **review-only patch that keeps the original LLM call as fallback**.
 
 `1.0.0-rc1` · 12 modules · 92 tests green · reproducible TAR/ZIP/SBOM · privacy audit: 0 findings
 
@@ -80,8 +80,8 @@ Experimental community token for the JevCostCutter project. **Not an investment 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sandie&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandie&layout=compact&hide_border=true&theme=github_dark" height="150" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=SandieOnChain&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandieOnChain&layout=compact&hide_border=true&theme=github_dark" height="150" alt="langs" />
 
 <sub>Read-only by default · Sandie</sub>
 
